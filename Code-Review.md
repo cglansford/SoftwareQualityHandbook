@@ -11,6 +11,6 @@ Managers or team leaders are responsible for locating the happy medium between t
 
 ![](file:///C:/Users/C17330~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
 
-![](file:///C:/Users/C17330~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![Alt text](http://amanek.com/images/posts/code-review-process.png)
 
 Initial code enters review process → Reviewed code→ Author makes changes → Code re-reviewed → if code doesn't meet requirements → code re-reviewed → once code is accepted code merged.
