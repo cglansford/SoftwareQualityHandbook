@@ -18,6 +18,8 @@ Reliable and consistent naming can eliminate the need for large sections of comm
 2. Whatever conventions you choose even regarding whitespacing and tabbing, it must be consistent.
 3. Liberal use of concise comments.
 
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FExamples-of-good-and-bad-variable-names_tbl1_327583062&psig=AOvVaw0ZZx46lI4QUs63wiVCCMrS&ust=1648128892737000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJim8N6s3PYCFQAAAAAdAAAAABAD "Naming Conventions")
+
 ## Benefits of good naming conventions
 
 1. Greatly increased code readability, especially for third parties.
