@@ -46,6 +46,18 @@ The concepts of back ups and version control go hand in hand. Version control is
 2. Allows a team to simultaneously work on complex projects.
 3. Allows for software testing to be done alongside development
 
+# In Conclusion - how do we decide on good coding standards?
+
+We have discussed many reasons why coding standards are important and their definite benefits. These guidelines will affect everyone in the company and be a huge factor in the success of every project and the organisation as a whole. It is worth spending significant time making sure you learn and implement these best practices in your work.
+
+
+
+
+
+
+
+
+
 # Sources
 
 | Title | Link |
@@ -53,8 +65,8 @@ The concepts of back ups and version control go hand in hand. Version control is
 | Naming Conventions| https://curc.readthedocs.io/en/latest/programming/coding-best-practices.html |
 | Back ups | https://rewind.com/blog/backup-software-what-is-why-use/ |
 | Version Control |  https://www.atlassian.com/git/tutorials/what-is-version-control |
-| Title | Link |
-| Title | Link |
+| Testing | Link |
+| Conclusion | https://www.perforce.com/blog/qac/coding-best-practices-how-use-coding-standards |
 
 
 
