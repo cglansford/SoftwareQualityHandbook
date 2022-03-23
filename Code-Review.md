@@ -13,8 +13,23 @@ Managers or team leaders are responsible for locating the happy medium between t
 
 
 ![Alt Text](https://www.researchgate.net/publication/328541762/figure/fig1/AS:686040184528896@1540576134082/Overview-of-the-Code-Review-Process.png)
+## **Good Practices**
 
-**Bad Practices**
+- Ask open ending questions. Open ended questions offer workarounds and alternatives that could offer a better solution.
+
+- Be empathetic -recognise that a peer has spent time and effort in working on their solution.
+
+- Review no more than 400 lines of code. Studies have shown that on average people reviewing the code will check approximately 400-500 lines of code well per hour and then after an hour a lot more mistakes slipped through. So therefore, only reviewing for an hour at a time keeps the review process good and less errors slip through.
+
+- Look for possible simplification. Occasionally solution can end up being far longer then they need to be. During the code review process Employees should not only look for errors but also for look for code that is over complicated.
+
+- 1hr of good code review can prevent 100hrs of extra work. (IBM)
+
+- Set clear goals and precise ways to measure outcome i.e. cut number of defects in half. Use the SMART criteria to decide on what the goals will be. This will create a picture of how the code is progressing and how much it is improving.
+
+- Add comments to where changes have taken place to make it easier to navigate the files worked on.
+
+## **Bad Practices**
 
 - Seniority doesn't mean always right. During code review everyone's opinion counts the same and everyone should be open to the same scrutiny. This means that team leaders shouldn't ever declare that their way is the best and that their work is beyond contestation.
 
