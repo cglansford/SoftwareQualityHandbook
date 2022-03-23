@@ -61,6 +61,10 @@ Comprehensive testing of any new code is absolutely vital. Untested code can cau
 
 Unit testing is an efficient way to make sure your code functions as intended. Ideally these unit tests should be constructed and carried out by a developer that is close to the project.
 
+One example of unit testing is creating mock objects to satisfy requirements of the program that are yet to be implemented. These objects are created with the sole purpose of being used to unit test a particular section of code.
+
+
+
 
 # In Conclusion - how do we decide on good coding standards?
 
