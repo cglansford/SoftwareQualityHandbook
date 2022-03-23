@@ -59,9 +59,7 @@ The concepts of back ups and version control go hand in hand. Version control is
 
 Comprehensive testing of any new code is absolutely vital. Untested code can cause a multitude of problems. The earlier this code is identified and fixed the less problems it will cause in terms of time and money.
 
-
-
-
+Unit testing is an efficient way to make sure your code functions as intended. Ideally these unit tests should be constructed and carried out by a developer that is close to the project.
 
 
 # In Conclusion - how do we decide on good coding standards?
