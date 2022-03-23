@@ -41,3 +41,17 @@ In stressful situations team members may get caught up in stories that are not e
 
 
 
+
+
+
+## Sources
+https://www.stevefenton.co.uk/2012/10/7-Bad-Practices-TFS-Can-Add-To-Your-Scrum-Process/, https://www.stevefenton.co.uk/2012/10/
+
+7-Bad-Practices-TFS-Can-Add-To-Your-Scrum-Process/.
+https://www.projectmanagement.com/blog/blogPostingView.cfm?blogPostingID=46054&thisPageURL=/blog-post/46054/Task-Estimation-with-Scrum#_=_, https://www.projectmanagement.com/blog/blogPostingView.cfm?blogPostingID=46054&thisPageURL=/blog-post/46054/Task-Estimation-with-Scrum#_=_.
+
+“Advantages and Disadvantages of Agile Estimation.” TechnologyHQ, 20 July 2021, https://www.technologyhq.org/advantages-and-disadvantages-of-agile-estimation/. Accessed 23 March 2022.
+
+“Scrum - Estimation.” Tutorialspoint, https://www.tutorialspoint.com/scrum/scrum_estimation.htm. Accessed 23 March 2022.
+
+Sinha, Deepti. “What are the top 5 Scrum Estimation Techniques?” KnowledgeHut, 31 August 2018, https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit. Accessed 23 March 2022.
