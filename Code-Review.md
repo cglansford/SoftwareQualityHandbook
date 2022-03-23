@@ -9,7 +9,7 @@ Managers or team leaders are responsible for locating the happy medium between t
 
 
 
-![](file:///C:/Users/C17330~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![Alt Text](https://www.researchgate.net/publication/328541762/figure/fig1/AS:686040184528896@1540576134082/Overview-of-the-Code-Review-Process.png)
 
 ![Alt text](http://amanek.com/images/posts/code-review-process.png)
 
