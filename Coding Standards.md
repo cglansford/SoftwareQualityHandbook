@@ -51,7 +51,10 @@ The concepts of back ups and version control go hand in hand. Version control is
 | Title | Link |
 | --- | ----------- |
 | Naming Conventions| https://curc.readthedocs.io/en/latest/programming/coding-best-practices.html |
-| Paragraph | Text |
+| Back ups | https://rewind.com/blog/backup-software-what-is-why-use/ |
+| Version Control |  https://www.atlassian.com/git/tutorials/what-is-version-control |
+| Title | Link |
+| Title | Link |
 
 
 
