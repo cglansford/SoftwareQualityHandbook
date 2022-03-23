@@ -21,8 +21,6 @@ Reliable and consistent naming can eliminate the need for large sections of comm
 
 <img src="https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/ckeditor/files/good_practice_2_0.png?zUWmBhjgYe6ek0L68YTRnUCQZo9lJo4v" alt="drawing" width="200" height = "200"/>
 
-<br/><br/>
-
 
 ## Benefits of good naming conventions
 
