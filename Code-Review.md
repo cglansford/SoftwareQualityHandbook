@@ -1,7 +1,7 @@
-##Code Review
+# **Code Review**
 
 
-**Introduction into Coding Standards**
+## **Introduction into Coding Standards**
 
 An effective peer review process involves balancing strictly documented processes and a collaborative work environment. 
 Decidedly rigid peer code reviews can slow and restrain productivity however, lazy code reviews can often prove to be a vain exercise. 
@@ -23,7 +23,7 @@ Initial code enters review process → Reviewed code→ Author makes changes →
 
 
 
-**Sources**
+## **Sources**
 
 1. <http://amanek.com/why-your-team-should-do-a-code-review-on-a-regular-basis/>
 
