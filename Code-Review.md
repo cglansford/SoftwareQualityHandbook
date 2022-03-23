@@ -14,3 +14,22 @@ Managers or team leaders are responsible for locating the happy medium between t
 ![Alt text](http://amanek.com/images/posts/code-review-process.png)
 
 Initial code enters review process → Reviewed code→ Author makes changes → Code re-reviewed → if code doesn't meet requirements → code re-reviewed → once code is accepted code merged.
+
+
+
+
+
+
+**Sources**
+
+1. <http://amanek.com/why-your-team-should-do-a-code-review-on-a-regular-basis/>
+
+2. <https://www.researchgate.net/publication/328541762_Investigating_the_effectiveness_of_peer_code_review_in_distributed_software_development_based_on_objective_and_subjective_data>
+
+3. <https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/>
+
+4. <https://google.github.io/eng-practices/review/reviewer/>
+
+5. <https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/>
+
+6. <https://blog.submain.com/code-review-practices/>
