@@ -17,12 +17,13 @@ Reliable and consistent naming can eliminate the need for large sections of comm
 1. Distinguishing variables, functions and classes with different naming conventions.
 2. Whatever conventions you choose even regarding whitespacing and tabbing, it must be consistent.
 3. Liberal use of concise comments.
-
-
+<br/><br/>
+<br/><br/>
 
 <img src="https://www.researchgate.net/publication/327583062/figure/tbl1/AS:669836791250950@1536712944497/Examples-of-good-and-bad-variable-names.png" alt="drawing" width="675" height = "350"/>
 
-
+<br/><br/>
+<br/><br/>
 
 
 ## Benefits of good naming conventions
