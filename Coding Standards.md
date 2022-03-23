@@ -27,3 +27,13 @@ Reliable and consistent naming can eliminate the need for large sections of comm
 
 # Back ups
 
+It is almost impossible to predict where things will go wrong. Files can get corrupted, batteries can die, software and hardware can fail us. Any data loss due to these factors no matter how small can be extremely detrimental. It can cause stress, loss of time and money. Having good standards in terms of regular back ups can help to mitigate this damage. Depending on your solution for this it also comes with aspects of data security. Your data will be extremely safe and encrypted in cloud based solutions. Having your data stored off site can be very important in the event of something like a ransomware attack.
+
+What is considered best practice?
+
+1. Daily back ups, preferably to a cloud based solution.
+2. Schedule and automate backups as much as possible.
+3. Encrypt backups and be security conscious.
+4. Comply with any retention or GDPR requirements.
+
+
