@@ -1,4 +1,4 @@
-#Project plan for Software Quality Handbook
+# Project plan for Software Quality Handbook
 
 ## Tasks Required:
 ### - Decide who will complete each topic
