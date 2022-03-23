@@ -48,7 +48,8 @@ It is almost impossible to predict where things will go wrong. Files can get cor
 
 The concepts of back ups and version control go hand in hand. Version control is essentially the practice of tracking and managing different versions of the same code. This allows developers to turn back code to a previous working version if any mistakes have occured. It allows a stable build of the code to be available while new features are worked on. Version control is very important no matter the scale of your organisation or team. In my opinion once more than one person is working on a code base it is best practice. In our team we use Git as our version control software.
 
-![Alt text](https://cdn-icons-png.flaticon.com/512/25/25231.png "git")
+
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="drawing" width="200" height = "200" alignment = "center"/>
 
 ## Benefits of version control
 
