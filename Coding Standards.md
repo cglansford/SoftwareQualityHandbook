@@ -18,7 +18,7 @@ Reliable and consistent naming can eliminate the need for large sections of comm
 2. Whatever conventions you choose even regarding whitespacing and tabbing, it must be consistent.
 3. Liberal use of concise comments.
 
-<img src="https://www.researchgate.net/publication/327583062/figure/tbl1/AS:669836791250950@1536712944497/Examples-of-good-and-bad-variable-names.png" alt="drawing" width="200" height = "200"/>
+<img src="https://www.researchgate.net/publication/327583062/figure/tbl1/AS:669836791250950@1536712944497/Examples-of-good-and-bad-variable-names.png" alt="drawing" width="300" height = "600"/>
 
 
 
