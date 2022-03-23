@@ -55,6 +55,15 @@ The concepts of back ups and version control go hand in hand. Version control is
 2. Allows a team to simultaneously work on complex projects.
 3. Allows for software testing to be done alongside development
 
+**Testing**
+
+Comprehensive testing of any new code is absolutely vital. Untested code can cause a multitude of problems. The earlier this code is identified and fixed the less problems it will cause in terms of time and money.
+
+
+
+
+
+
 # In Conclusion - how do we decide on good coding standards?
 
 We have discussed many reasons why coding standards are important and their definite benefits. These guidelines will affect everyone in the company and be a huge factor in the success of every project and the organisation as a whole. It is worth spending significant time making sure you learn and implement these best practices in your work.
