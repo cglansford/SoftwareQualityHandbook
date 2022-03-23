@@ -20,7 +20,7 @@ Reliable and consistent naming can eliminate the need for large sections of comm
 <br/><br/>
 <br/><br/>
 
-<img src="https://www.researchgate.net/publication/327583062/figure/tbl1/AS:669836791250950@1536712944497/Examples-of-good-and-bad-variable-names.png" alt="drawing" width="675" height = "350"/>
+<img src="https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/ckeditor/files/good_practice_2_0.png?zUWmBhjgYe6ek0L68YTRnUCQZo9lJo4v" alt="drawing" width="200" height = "200"/>
 
 
 <br/><br/>
@@ -49,7 +49,7 @@ It is almost impossible to predict where things will go wrong. Files can get cor
 The concepts of back ups and version control go hand in hand. Version control is essentially the practice of tracking and managing different versions of the same code. This allows developers to turn back code to a previous working version if any mistakes have occured. It allows a stable build of the code to be available while new features are worked on. Version control is very important no matter the scale of your organisation or team. In my opinion once more than one person is working on a code base it is best practice. In our team we use Git as our version control software.
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="drawing" width="200" height = "200" alignment = "center"/>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="drawing" width="200" height = "200"/>
 
 ## Benefits of version control
 
