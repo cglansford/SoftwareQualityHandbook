@@ -42,7 +42,7 @@ It is almost impossible to predict where things will go wrong. Files can get cor
 3. Encrypt backups and be security conscious.
 4. Comply with any retention or GDPR requirements.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-bb23gt%2F&psig=AOvVaw0axje9mkCz-wYn6Nclc7gm&ust=1648130021813000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMi2oPew3PYCFQAAAAAdAAAAABAq" alt="back up" width="200" height = "200"/>
+<img src="https://www.pngplay.com/wp-content/uploads/6/Backup-Silhouette-PNG-Clipart-Background.png" alt="back up" width="200" height = "200"/>
 
 # Version Control
 
