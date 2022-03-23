@@ -18,10 +18,8 @@ Reliable and consistent naming can eliminate the need for large sections of comm
 2. Whatever conventions you choose even regarding whitespacing and tabbing, it must be consistent.
 3. Liberal use of concise comments.
 <br/><br/>
-<br/><br/>
 
 <img src="https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/ckeditor/files/good_practice_2_0.png?zUWmBhjgYe6ek0L68YTRnUCQZo9lJo4v" alt="drawing" width="200" height = "200"/>
-
 
 <br/><br/>
 
@@ -43,6 +41,9 @@ It is almost impossible to predict where things will go wrong. Files can get cor
 2. Schedule and automate backups as much as possible.
 3. Encrypt backups and be security conscious.
 4. Comply with any retention or GDPR requirements.
+<br/><br/>
+<img src="https://www.cleanpng.com/png-backup-database-computer-icons-scalable-vector-gra-6398231/preview.html" alt="drawing" width="200" height = "200"/>
+<br/><br/>
 
 # Version Control
 
