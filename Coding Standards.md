@@ -55,7 +55,7 @@ The concepts of back ups and version control go hand in hand. Version control is
 2. Allows a team to simultaneously work on complex projects.
 3. Allows for software testing to be done alongside development
 
-**Testing**
+# Testing
 
 Comprehensive testing of any new code is absolutely vital. Untested code can cause a multitude of problems. The earlier this code is identified and fixed the less problems it will cause in terms of time and money.
 
